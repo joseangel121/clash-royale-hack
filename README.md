@@ -20,3 +20,4 @@ Nada más empezar el juego, puedes empezar a construir tu base. Al principio, cu
 
 
 Durante el juego, los jugadores reciben una determinada cantidad de terreno en el que construyen bases y libran intensas batallas. En concreto, el objetivo es construir posiciones defensivas y poner de rodillas a los adversarios fortificándose desde sus propias posiciones. El juego permite a los jugadores construir un total de tres torres: una torre principal y dos torres defensivas, situadas en dos caminos, con capacidad para atacar al enemigo. El sistema de ejércitos del juego también se encarga de atacar al enemigo en cada partida y destruir sus bases lo antes posible.
+Hey
