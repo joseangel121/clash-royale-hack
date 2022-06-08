@@ -1,4 +1,4 @@
-# clash-royale-hack
+# Clash Royale Hack 2022
 Battle Royale MOD APK es un juego estratégico de defensa de torres desarrollado para plataformas móviles. En este juego, tu tarea principal es crear tu propia tribu y desarrollar o invadir otras tribus. De hecho, tus oponentes son jugadores de todo el mundo, así que prepárate antes de luchar.
 
 ACCEDER A LA WEB: https://hackall.live/clashhroyaleking/
